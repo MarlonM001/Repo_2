@@ -49,4 +49,4 @@ cd proyecto
 ---
 ## imagen tutorial
 
-[![click para ver el video](https://freepngimg.com/png/37663-pokemon-file)](https://www.youtube.com/watch?v=QhwMKn8fHXs&list=RDQhwMKn8fHXs&start_radio=1)
+[![click para ver el video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZP8RN3tS9O5c1aXWCej-0YsflwVZA3SULPQ&s)](https://www.youtube.com/watch?v=QhwMKn8fHXs&list=RDQhwMKn8fHXs&start_radio=1)
