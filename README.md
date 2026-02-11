@@ -2,6 +2,9 @@
 
 breve discripcion 
 Marlon
+Linea para generar conflicto rama marlon
+Linea para crear un conflicto
+
 ---
 
 ## Tabla de contenido
@@ -19,6 +22,9 @@ Marlon
 - Lenguaje de framework principal 
 - Bases de datos
 - Librerias claves
+- Sql Inyeccion
+- Tablas
+- Datos
 
 ---
 
