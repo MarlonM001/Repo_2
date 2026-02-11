@@ -19,6 +19,9 @@ breve discripcion
 - Lenguaje de framework principal 
 - Bases de datos
 - Librerias claves
+- Sql Inyeccion
+- Tablas
+- Datos
 
 ---
 
