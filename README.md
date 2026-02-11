@@ -40,3 +40,8 @@ Pasos para instalar el proyecto localmente
 ```bash
 git clone https://github.com/MarlonM001/Repor_2.git
 cd proyecto
+
+```
+---
+## Video tutorial 
+[![Click para ver el video](asset/ima.png)](https://www.youtube.com/watch?v=QhwMKn8fHXs&list=RDQhwMKn8fHXs&start_radio=1)
